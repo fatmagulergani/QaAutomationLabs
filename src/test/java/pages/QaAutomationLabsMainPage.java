@@ -41,6 +41,9 @@ public class QaAutomationLabsMainPage extends BasePage {
     @FindBy (xpath = "//a[@href='notifications.php']")
     public WebElement notificationsLink;
 
+    @FindBy (xpath = "//div[@class='col-md-4 col-sm-12 p-2']//a[@href='javaScript-alert.php']")
+    public WebElement alertButton;
+
     public void verifyMainPageIsOpen() {
         verifyPageLoaded(logo);
     }

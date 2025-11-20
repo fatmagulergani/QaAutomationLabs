@@ -1,6 +1,5 @@
 package tests;
 
-import org.openqa.selenium.Alert;
 import org.openqa.selenium.interactions.Actions;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
@@ -22,6 +21,7 @@ public class BaseTest {
     QaAutomationLabsShadowDomPage shadowDomPage = new QaAutomationLabsShadowDomPage();
     QaAutomationLabsDragAndDropPage dragAndDropPage = new QaAutomationLabsDragAndDropPage();
     QaAutomationLabsNotificationsPage notificationsPage = new QaAutomationLabsNotificationsPage();
+    QaAutomationLabsAlertPage alertPage = new QaAutomationLabsAlertPage();
 
     @BeforeMethod
     public void setUp() {
