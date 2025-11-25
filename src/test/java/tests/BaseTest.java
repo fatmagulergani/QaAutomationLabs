@@ -22,6 +22,7 @@ public class BaseTest {
     QaAutomationLabsDragAndDropPage dragAndDropPage = new QaAutomationLabsDragAndDropPage();
     QaAutomationLabsNotificationsPage notificationsPage = new QaAutomationLabsNotificationsPage();
     QaAutomationLabsAlertPage alertPage = new QaAutomationLabsAlertPage();
+    QaAutomationLabsFileUploadPage fileUploadPage = new QaAutomationLabsFileUploadPage();
 
     @BeforeMethod
     public void setUp() {
