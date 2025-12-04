@@ -23,6 +23,8 @@ public class BaseTest {
     QaAutomationLabsNotificationsPage notificationsPage = new QaAutomationLabsNotificationsPage();
     QaAutomationLabsAlertPage alertPage = new QaAutomationLabsAlertPage();
     QaAutomationLabsFileUploadPage fileUploadPage = new QaAutomationLabsFileUploadPage();
+    QaAutomationLabsFileDownloadPage fileDownloadPage = new QaAutomationLabsFileDownloadPage();
+    QaAutomationLabsModalPopupPage modalPopupPage = new QaAutomationLabsModalPopupPage();
 
     @BeforeMethod
     public void setUp() {
