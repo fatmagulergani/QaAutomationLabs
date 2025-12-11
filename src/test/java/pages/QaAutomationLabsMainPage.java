@@ -53,6 +53,9 @@ public class QaAutomationLabsMainPage extends BasePage {
     @FindBy (xpath = "//div[@class='col-md-4 col-sm-12 p-2']//a[@href='window-popup-modal.php']")
     public WebElement modalPopupButton;
 
+    @FindBy (xpath = "//div[@class='col-md-4 col-sm-12 p-2']//a[@href='list-box.php']")
+    public WebElement listBoxButton;
+
     public void verifyMainPageIsOpen() {
         verifyPageLoaded(logo);
     }

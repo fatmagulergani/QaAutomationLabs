@@ -6,21 +6,21 @@ package tests;
 3. Verify that logo is visible successfully
 4. Click the Modal Pop Up button under Tools Demo
 5. Verify 'Window popup Modal Demo' is visible
-Click Success Modal Popup button
-Verify the message header, body (header: Success Modal Popup, body: Modal Popup Body) and color
-Click close on the popup message
-Wait 3 seconds
-Click Info Modal Popup button
-Verify the message header, body (header: Info Modal Popup, body: Modal Popup Body) and color
-Click close on the popup message
-Wait 3 seconds
-Click Primary Modal Popup button
-Verify the message header, body (header: Primary Modal Popup, body: Modal Popup Body) and color
-Click close on the popup message
-Wait 3 seconds
-Click Error Modal Popup button
-Verify the message header, body (header: Error Modal Popup, body: Modal Popup Body) and color
-Click close on the popup message
+6. Click Success Modal Popup button
+7. Verify the message header, body (header: Success Modal Popup, body: Modal Popup Body) and color
+8. Click close on the popup message
+9. Wait 3 seconds
+10.Click Info Modal Popup button
+11.Verify the message header, body (header: Info Modal Popup, body: Modal Popup Body) and color
+12.Click close on the popup message
+13.Wait 3 seconds
+14.Click Primary Modal Popup button
+15.Verify the message header, body (header: Primary Modal Popup, body: Modal Popup Body) and color
+16.Click close on the popup message
+17.Wait 3 seconds
+18.Click Error Modal Popup button
+19.Verify the message header, body (header: Error Modal Popup, body: Modal Popup Body) and color
+20.Click close on the popup message
 */
 import org.openqa.selenium.interactions.Actions;
 import org.testng.Assert;

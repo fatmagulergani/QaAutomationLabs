@@ -25,6 +25,7 @@ public class BaseTest {
     QaAutomationLabsFileUploadPage fileUploadPage = new QaAutomationLabsFileUploadPage();
     QaAutomationLabsFileDownloadPage fileDownloadPage = new QaAutomationLabsFileDownloadPage();
     QaAutomationLabsModalPopupPage modalPopupPage = new QaAutomationLabsModalPopupPage();
+    QaAutomationLabsListBoxPage listBoxPage = new QaAutomationLabsListBoxPage();
 
     @BeforeMethod
     public void setUp() {
