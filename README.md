@@ -16,6 +16,7 @@ A comprehensive repository dedicated to mastering **Web UI Automation** using **
 
 ## 📂 Project Structure
 
+```text
 src
 ├── main
 ├── test
@@ -25,6 +26,7 @@ src
 │         └── utilities   (Driver, ConfigReader)
 └── pom.xml
 └── README.md
+```
 
 ## 🚀 How to Run Tests
 
