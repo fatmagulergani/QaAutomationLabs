@@ -26,7 +26,7 @@ package tests;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class QaAutomationLabsTest05 extends BaseTest{
+public class WebTableSearchTest extends BaseTest{
 
     @Test
     public void test05() throws InterruptedException {

@@ -25,7 +25,7 @@ import java.io.File;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
-public class QaAutomationLabsTest12 extends BaseTest{
+public class FileDownloadDemoTest extends BaseTest{
 
     @Test
     public void test12() throws InterruptedException {

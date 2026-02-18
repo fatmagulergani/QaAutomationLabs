@@ -18,7 +18,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 import utilities.Driver;
 
-public class QaAutomationLabsTest06 extends BaseTest {
+public class IFrameDemoTest extends BaseTest {
 
     @Test
     public void test06() throws InterruptedException {

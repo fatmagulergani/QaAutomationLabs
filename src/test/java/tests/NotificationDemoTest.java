@@ -33,7 +33,7 @@ import org.openqa.selenium.support.Color;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class QaAutomationLabsTest09 extends BaseTest {
+public class NotificationDemoTest extends BaseTest {
 
     @Test
     public void test09() throws InterruptedException {

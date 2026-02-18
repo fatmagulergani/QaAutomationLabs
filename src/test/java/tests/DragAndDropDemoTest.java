@@ -21,7 +21,7 @@ package tests;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class QaAutomationLabsTest08 extends BaseTest {
+public class DragAndDropDemoTest extends BaseTest {
 
     @Test
     public void test08() throws InterruptedException {

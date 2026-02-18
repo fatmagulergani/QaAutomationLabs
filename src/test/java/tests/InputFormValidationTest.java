@@ -54,7 +54,7 @@ import utilities.Driver;
 
 import static utilities.Driver.getDriver;
 
-public class QaAutomationLabsTest04 extends BaseTest {
+public class InputFormValidationTest extends BaseTest {
 
     @Test
     public void test04() {

@@ -27,7 +27,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 import utilities.Driver;
 
-public class QaAutomationLabsTest13 extends BaseTest{
+public class ModalPopupDemoTest extends BaseTest{
 
     @Test
     public void test13() throws InterruptedException {

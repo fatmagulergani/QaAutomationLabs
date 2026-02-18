@@ -51,7 +51,7 @@ Wait 3 seconds
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class QaAutomationLabsTest02 extends BaseTest {
+public class RadioButtonDemoTest extends BaseTest {
 
     @Test
     public void test02() throws InterruptedException {

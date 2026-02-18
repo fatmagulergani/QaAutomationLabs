@@ -24,7 +24,7 @@ package tests;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class QaAutomationLabsTest14 extends BaseTest {
+public class ListBoxDemoTest extends BaseTest {
 
     @Test
     public void test14() {
